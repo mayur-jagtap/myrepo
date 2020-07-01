@@ -44,7 +44,7 @@
       <style type="text/css">
       
       html { 
-          background: url(https://i2.wp.com/www.anupghosal.com/wp-content/uploads/2020/06/hd-weather-wallpapers-pixelstalk-net-desktop-backgrounds-hd.jpg?fit=1862%2C1047&ssl=1&is-pending-load=1) no-repeat center center fixed; 
+          background: url(https://lh3.googleusercontent.com/proxy/UzH9xjy_iPk-e7qISpEfebcA-QbUF-23gn2pM0fXTERRTLcruKf5f2pPz8qam6nse5Vk_r1sq1NuamOr3iqqVCssmAfhO5ohZUUvdg3wuaMJK1-ga0BGXfl0BqeUtM0M3NHCbk4mIX7R7n3tKvdjQNwqdYfoesZssi-4r9iokFN74TJIzizDuz79VSYwcM1cDhef 
           -webkit-background-size: cover;
           -moz-background-size: cover;
           -o-background-size: cover;
